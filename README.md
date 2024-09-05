@@ -1,6 +1,8 @@
 # KDT_Project2-EPL_Chatbot
 ### 잉글랜드 프리미어 리그 챗봇
 
+![image](https://github.com/user-attachments/assets/f8edce96-3cde-41e7-bf8d-90b40910db4a)
+
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/dd901782-c431-448a-a4d9-d03f081ed374">
 <hr width="800">
 
